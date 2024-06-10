@@ -24,7 +24,7 @@ function Story() {
           </div>
           <div className="col-lg-8">
             <div className="cont mt-80">
-              <h4>GeekFolio are digital marketing experts and can partner with you to implement tactical campaigns which engage and connect audiences whilst driving ROI for your brand. We are SEO and SEM professionals and have implemented successful search campaigns for clients which drive super-charge improvements in organic rankings, increase visits and grow revenue. </h4>
+              <h4>At MEGAMAIL, we are devoted exclusively to revolutionizing email marketing. Our journey began with a clear vision: to elevate email marketing into a precision tool for enhancing customer engagement and driving remarkable revenue growth. Through our focused approach, innovative strategies, and dedication to results, we have empowered numerous businesses to transform their email campaigns into potent assets that deliver substantial outcomes. </h4>
             </div>
           </div>
         </div>
