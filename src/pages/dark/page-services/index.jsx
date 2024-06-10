@@ -22,7 +22,7 @@ function PageServices() {
 
   const headerMetadata = {
     subTitle: "WHAT CAN WE DO ?",
-    title: "We combine our passion for design and code.",
+    title: "We combine our passion for design and Email Marketing.",
     text: "SERVICES"
   }
 
