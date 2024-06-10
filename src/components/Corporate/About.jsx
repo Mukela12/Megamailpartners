@@ -20,7 +20,7 @@ function About({ lightMode }) {
             <div className="cont">
               <h6 className="sub-title mb-15">About MegaMail</h6>
               <h3 className="mb-15">
-              We're wizards at converting strangers into <span className="stroke fw-700 opacity-7">recurring customers.</span>.
+              We're wizards at converting strangers into <span className="stroke fw-700 opacity-7">recurring customers.</span>
               </h3>
               <p>We specialize in creating premium emails for 6 to 7 figure ecommerce brands that are ready to elevate their email marketing game to turn strangers into permanent clients.</p>
               <div className="mt-50 pt-30 bord-thin-top">
