@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "background": "../public/dark/assets/imgs/background/17.jpg",
+    "title": "MegaMail",
+    "text": "Where Email Leads Become Revenue Streams",
+    "button": {
+      "link": "https://megamail.scoreapp.com/",
+      "text": "FREE EMAIL MARKETING DIAGNOSTIC"
+    }
+  }
+]

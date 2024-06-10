@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/serv-icons/0.png",
+    "category": "Email Results",
+    "title": "100% Focused On Emails",
+    "text": "We are the best solution on the market because ALL we do all day every day is think about email."
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/serv-icons/1.png",
+    "category": "Talented Team",
+    "title": "Wizards of Email Management",
+    "text": "Established legacy of teaching 700+ professionals in the art of email management."
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/serv-icons/2.png",
+    "category": "Proved Results",
+    "title": "Battle Tested Methodology",
+    "text": "We have generated over $100M in online sales, primarily through email."
+  }
+]
