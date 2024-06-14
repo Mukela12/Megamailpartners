@@ -15,15 +15,6 @@ function Form() {
                 <a href="#0">+7209370168</a>
               </div>
               <ul className="rest social-text d-flex mt-60">
-                <li className="mr-30">
-                  <a href="#0">Facebook</a>
-                </li>
-                <li className="mr-30">
-                  <a href="#0">Twitter</a>
-                </li>
-                <li className="mr-30">
-                  <a href="#0">LinkedIn</a>
-                </li>
                 <li>
                   <a href="https://www.instagram.com/mega.mail.partners?igsh=YXRxMDFweHJxdHlt">Instagram</a>
                 </li>

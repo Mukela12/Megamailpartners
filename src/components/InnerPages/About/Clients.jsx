@@ -12,7 +12,7 @@ function Clients({ lightMode }) {
         <div className="row justify-content-center mb-80">
           <div className="col-lg-6 text-center">
             <div className="text">
-              <h3>We create experiences and turn ideas into reality.</h3>
+              <h3>Notable brands that blew up their inbox game with us</h3>
             </div>
           </div>
         </div>
@@ -26,10 +26,10 @@ function Clients({ lightMode }) {
                   <div className="col-md-4 col-6 brand box-bg" key={Math.floor(Math.random() * 10000)}>
                     <div className="item mb-30 wow fadeIn" data-wow-delay=".6s">
                       <div className="img">
-                        <img src={`/${lightMode ? 'light' : 'dark'}${item}`} alt="" />
+                        <img src={`/${lightMode ? 'light' : 'dark'}${item.image}`} alt="" />
                       </div>
-                      <Split tag="a" href={appData.author_link} className="link">
-                        www.GeekFolio.com
+                      <Split tag="a" href={`http://${item.link}`} className="link">
+                      {item.link}
                       </Split>
                     </div>
                   </div>

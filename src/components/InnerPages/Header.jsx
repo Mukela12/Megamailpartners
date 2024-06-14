@@ -3,7 +3,7 @@ import React from 'react';
 function Header({ data, subBg }) {
   return (
     <header className={`page-header section-padding pb-0 ${subBg ? 'sub-bg' : ''}`}>
-      <div className="container mt-80">
+      <div className="container mt-90">
         <div className="row">
           <div className="col-lg-8">
             <div className="caption">
@@ -15,7 +15,7 @@ function Header({ data, subBg }) {
         <div className="row">
           <div className="col-lg-5 offset-lg-4">
             <div className="text mt-30">
-              <p>We help our clients succeed by creating brand identities, digital experiences, and print materials that communicate clearly, achieve marketing goals, and look fantastic.</p>
+              <p></p>
             </div>
           </div>
         </div>

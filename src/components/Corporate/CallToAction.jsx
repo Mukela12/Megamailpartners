@@ -11,13 +11,13 @@ function CallToAction({ lightMode, innerPageStyle }) {
   return (
     <section className="call-action-img">
       <div className="container">
-        <div className="sec-bg-img bg-img parallaxie" data-background="/dark/assets/imgs/background/2.jpg"></div>
+        <div className="sec-bg-img bg-img parallaxie" data-background="/dark/assets/imgs/background/warmup.may_.jpg"></div>
         <div className="sec-lg-head section-padding">
           <div className="row ontop">
             <div className="col-11 d-flex align-items-center">
               <div className="valign">
                 <h2 className="fz-50 d-rotate wow">
-                  <span className="rotate-text">Have a project in mind?</span>
+                  <span className="rotate-text">Have an email campaign in mind?</span>
                   <span className="rotate-text">Let’s <span className={innerPageStyle ? '' : 'sub-font'}>get to work</span>.</span>
                 </h2>
               </div>

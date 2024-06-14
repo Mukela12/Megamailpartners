@@ -18,7 +18,7 @@ function FAQ() {
         <div className="row">
           <div className="col-lg-5">
             <div className="sec-head mb-40">
-              <h6 className="sub-title">Email Marketing FAQ.</h6>
+              <h6 className="sub-title">Email Marketing FAQ</h6>
             </div>
           </div>
           <div className="col-lg-7">

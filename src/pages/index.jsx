@@ -18,6 +18,8 @@ import Block from '@/components/Corporate/Block';
 import Pricing from '@/components/Corporate/Pricing';
 import Footer from '@/components/Corporate/Footer';
 import Approach from '@/components/Corporate/Approach1';
+import Clients from '@/components/InnerPages/About/Clients';
+
 
 
 function HomeCorporate() {
@@ -43,6 +45,7 @@ function HomeCorporate() {
         <Approach />
         <Numbers />
         <Testimonials />
+        <Clients />
         <Block />
         <Pricing />
       </main>

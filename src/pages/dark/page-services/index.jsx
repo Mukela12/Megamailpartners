@@ -7,7 +7,7 @@ import Layout from '@/layouts/default';
 import Loader from '@/components/Common/Loader';
 import Navbar from '@/components/Common/MainNavbar';
 import Header from '@/components/InnerPages/Header';
-import Services from '@/components/InnerPages/About/Services';
+import Services from '@/components/Corporate/Services';
 import Portfolio from '@/components/InnerPages/Services/Portfolio';
 import ServicesTab from '@/components/Common/ServicesTab';
 import FAQ from '@/components/InnerPages/Services/FAQ';
@@ -23,7 +23,7 @@ function PageServices() {
   const headerMetadata = {
     subTitle: "WHAT CAN WE DO ?",
     title: "We combine our passion for design and Email Marketing.",
-    text: "SERVICES"
+    text: "MEGAMAIL"
   }
 
   return (

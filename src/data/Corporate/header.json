@@ -2,11 +2,15 @@
   {
     "id": 1,
     "background": "../public/dark/assets/imgs/background/17.jpg",
-    "title": "MegaMail",
-    "text": "Where Email Leads Become Revenue Streams",
+    "title": "Unlock $10K+/month revenue",
+    "text": "Get your free cold and warm email score across 5 critical areas.",
     "button": {
       "link": "https://megamail.scoreapp.com/",
-      "text": "FREE EMAIL MARKETING DIAGNOSTIC"
+      "text": "Audit your warm leads"
+    },
+    "button2": {
+      "link": "https://megamail.scoreapp.com/",
+      "text": "Audit your cold emails"
     }
   }
 ]

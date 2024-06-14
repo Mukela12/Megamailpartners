@@ -1,8 +1,26 @@
 [
-  "/assets/imgs/brands/01.png",
-  "/assets/imgs/brands/02.png",
-  "/assets/imgs/brands/03.png",
-  "/assets/imgs/brands/04.png",
-  "/assets/imgs/brands/05.png",
-  "/assets/imgs/brands/03.png"
+  {
+    "image": "/assets/imgs/brands/basics.png",
+    "link": "www.byltbasics.com"
+  },
+  {
+    "image": "/assets/imgs/brands/hunt.png",
+    "link": "www.fewwillhunt.com"
+  },
+  {
+    "image": "/assets/imgs/brands/citrix.png",
+    "link": "www.citrix.com"
+  },
+  {
+    "image": "/assets/imgs/brands/Beats-by-Dre-logo.png",
+    "link": "www.beatsbydre.com"
+  },
+  {
+    "image": "/assets/imgs/brands/MariMed.png",
+    "link": "www.marimedinc.com"
+  },
+  {
+    "image": "/assets/imgs/brands/Oracle-Logo.png",
+    "link": "www.oracle.com"
+  }
 ]

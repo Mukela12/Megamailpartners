@@ -8,7 +8,7 @@ import Loader from '@/components/Common/Loader';
 import Navbar from '@/components/Common/MainNavbar';
 import Header from '@/components/InnerPages/Header';
 import Story from '@/components/InnerPages/About/Story';
-import Services from '@/components/InnerPages/About/Services';
+import Services from '@/components/Corporate/Services';
 import Intro from '@/components/InnerPages/About/Intro';
 import Clients from '@/components/InnerPages/About/Clients';
 import CallToAction from '@/components/Corporate/CallToAction';
@@ -23,7 +23,7 @@ function PageAbout() {
   const headerMetadata = {
     subTitle: "WHO WE ARE ?",
     title: "We're a Email Marketing agency based in Texas.",
-    text: "About Us"
+    text: "OUR STORY"
   }
 
   return (
@@ -36,9 +36,8 @@ function PageAbout() {
       <Navbar mainBg />
       <main>
         <Header data={headerMetadata} />
-        <Story />
-        <Services />
         <Intro />
+        <Services />
         <Clients />
         <CallToAction innerPageStyle />
       </main>
