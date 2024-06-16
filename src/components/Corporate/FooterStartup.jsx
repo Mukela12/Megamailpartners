@@ -29,7 +29,7 @@ function Footer({ lightMode, subBg }) {
                   <h6>Address</h6>
                 </div>
                 <div className="text">
-                  <p>Germany — 785 15h Street, Office 478 Berlin, De 81566</p>
+                  <p>Austin, Texas, United States</p>
                 </div>
               </div>
             </div>
@@ -40,10 +40,10 @@ function Footer({ lightMode, subBg }) {
                 </div>
                 <div className="text">
                   <p className="mb-10">
-                    <a href="#0">hello@design.com</a>
+                    <a href="#0">rye@megamailpartners.com</a>
                   </p>
                   <h5>
-                    <a href="#">+1 840 841 25 69</a>
+                    <a href="#">+7 209 370 168</a>
                   </h5>
                 </div>
               </div>
@@ -54,13 +54,7 @@ function Footer({ lightMode, subBg }) {
               </div>
               <ul className="rest social-text">
                 <li>
-                  <a href="#0">Facebook</a>
-                </li>
-                <li>
-                  <a href="#0">Twitter</a>
-                </li>
-                <li>
-                  <a href="#0">Instagram</a>
+                  <a href="https://www.instagram.com/mega.mail.partners/?igsh=YXRxMDFweHJxdHlt">Instagram</a>
                 </li>
               </ul>
             </div>
@@ -94,7 +88,7 @@ function Footer({ lightMode, subBg }) {
               <div className="col-lg-8">
                 <div className="copyright d-flex">
                   <div className="ml-auto">
-                    <p className="fz-13">© 2024 Megamail <span className="underline"><a href={data.author_link} target="_blank">{data.author}</a></span></p>
+                    <p className="fz-13">© 2024 Megamail <span className="underline"><a href={data.author_link} target="_blank"></a></span></p>
                   </div>
                 </div>
               </div>

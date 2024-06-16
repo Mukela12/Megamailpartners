@@ -19,6 +19,7 @@ import Pricing from '@/components/Corporate/Pricing';
 import Footer from '@/components/Corporate/Footer';
 import Approach from '@/components/Corporate/Approach1';
 import Clients from '@/components/InnerPages/About/Clients';
+import SideImage from '@/components/Corporate/GetStarted';
 
 
 
@@ -39,7 +40,8 @@ function HomeCorporate() {
       <Navbar />
       <main className="main-bg">
         <Header />
-        <Services />
+        <SideImage />
+        <Services />  
         <About />
         <Marq />
         <Approach />

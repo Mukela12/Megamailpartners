@@ -4,27 +4,34 @@
     "content": "I have had the pleasure of collaborating with MEGAMAIL to elevate our email marketing strategies. Their expertise has been instrumental in transforming our approach, turning one-time inquiries into long-term, engaged clients.",
     "image": "assets/imgs/testim/KellyCarter.webp",
     "author": "Kelly Carter",
-    "position": "CEO"
+    "position": "CEO, Beacon Retirement Group"
   },
   {
     "id": 2,
-    "content": "I have had the pleasure of collaborating with MEGAMAIL to elevate our email marketing strategies. Their expertise has been instrumental in transforming our approach, turning one-time inquiries into long-term, engaged clients.",
-    "image": "assets/imgs/testim/KellyCarter.webp",
-    "author": "Kelly Carter",
-    "position": "CEO"
+    "content": "MegaMail’s Klaviyo diagnostic was an eye-opener for us. They pinpointed exactly where we were losing customers and provided actionable solutions. Their retention marketing expertise has made our campaigns more effective than ever before.",
+    "image": "assets/imgs/testim/download.jpeg",
+    "author": "Patrick Cho",
+    "position": "COO, Miss Me Jeans"
   },
   {
     "id": 3,
-    "content": "I have had the pleasure of collaborating with MEGAMAIL to elevate our email marketing strategies. Their expertise has been instrumental in transforming our approach, turning one-time inquiries into long-term, engaged clients.",
-    "image": "assets/imgs/testim/KellyCarter.webp",
-    "author": "Kelly Carter",
-    "position": "CEO"
+    "content": "Before working with MegaMail, we didn't prioritize our email marketing channel. Their Klaviyo diagnostic revealed key areas we needed to improve, and their email & sms marketing strategies have added an extra $200,000+ in annual revenue since November 2021.",
+    "image": "assets/imgs/testim/JoeyBowen.JPG",
+    "author": "Joey Bowen",
+    "position": "Co-Founder, Few Will Hunt"
   },
   {
     "id": 4,
-    "content": "I have had the pleasure of collaborating with MEGAMAIL to elevate our email marketing strategies. Their expertise has been instrumental in transforming our approach, turning one-time inquiries into long-term, engaged clients.",
-    "image": "assets/imgs/testim/KellyCarter.webp",
-    "author": "Kelly Carter",
-    "position": "CEO"
+    "content": "Working with MegaMail on a Klaviyo audit was a pivotal moment for BYLT Basics. They not only identified key areas where we could improve retention but also provided innovative strategies for list growth. I greatly appreciate their thoughtful approach and the tangible results it has brought.",
+    "image": "assets/imgs/testim/Rebeca.jpeg", 
+    "author": "Rebecca Larzik",
+    "position": "VP of Marketing, BYLT Basics"
+  },
+  {
+    "id": 5,
+    "content": "As Brand Manager at MariMed, my role involves managing product lifecycles and implementing innovative marketing strategies. MegaMail was a significant part of our customer acquisition efforts, helping us effectively market new products and achieve notable success in reaching our target audience.",
+    "image": "assets/imgs/testim/Sara.jpeg",
+    "author": "Sara Rosenfield",
+    "position": "Brand Manager, MariMed, Inc."
   }
 ]
