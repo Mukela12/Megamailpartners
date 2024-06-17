@@ -42,14 +42,12 @@ function HomeCorporate() {
         <Header />
         <SideImage />
         <Services />  
-        <About />
         <Marq />
         <Approach />
         <Numbers />
         <Testimonials />
         <Clients />
         <Block />
-        <Pricing />
       </main>
       <Footer />
     </>
